@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+street_view_images/
+carla_simulated_dataset/
+carla_driving_dataset/
+google_real_street_view/
+kartaview_kerala_dataset/
+kerala_highway_dataset/
+kerala_lane_detection_dataset/
+lane_detection_dataset/
+mapillary_street_view/
+osm_road_images/
